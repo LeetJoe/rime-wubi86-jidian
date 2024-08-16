@@ -112,19 +112,19 @@ patch:
   app_options:
     com.termius-dmg.mac: # Terminal - Mac
       ascii_mode: true
-    com.googlecode.iterm2
+    com.googlecode.iterm2:
       ascii_mode: true
       scii_punct: true
-    com.jetbrains.pycharm
+    com.jetbrains.pycharm:
       ascii_mode: true
       scii_punct: true
-    com.eusoft.eudic
+    com.eusoft.eudic:
       ascii_mode: true
       scii_punct: true
-    com.eusoft.eudic.LightPeek
+    com.eusoft.eudic.LightPeek:
       ascii_mode: true
       scii_punct: true
-    texstudio
+    texstudio:
       ascii_mode: true
       scii_punct: true
 #    com.google.Chrome: # Chrome
