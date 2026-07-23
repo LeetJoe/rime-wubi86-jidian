@@ -110,6 +110,8 @@ CarPlay	carp
 日系	jjtx	20
 德系	tftx	20
 兰博基尼	ufan	20
+自吸	thke	20
+涡轮增压	ilfd	20
 
 ## 摩托车
 单盘	ujte
@@ -225,6 +227,10 @@ Ninja650	ninj
 金蝉	qqju
 云缨	fcxm
 艾琳	aqgs
+空空儿	ppqt
+蚩奼	bhvt
+元流之子	fipb
+六耳	uybg
 
 ## 影视
 黑镜	lfqu
@@ -281,6 +287,13 @@ Ninja650	ninj
 五月槐花香	gest
 变相怪杰	ysns
 加勒比海盗	laxu
+漫长的季节	itra
+鱿鱼游戏	qqic
+天龙特攻队	gdtb
+罗曼蒂克消亡史	ljak
+敦刻尔克	yyqd
+谍影重重	yjtt
+满城尽待黄金甲	ifnl
 
 ## 歌手
 谢春花	ydaw
@@ -317,6 +330,9 @@ Ninja650	ninj
 麻园诗人	ylyw	20
 五月天	gegd
 毛不易	tgjq	30
+刘烨溦	yoim
+凤凰传奇	mmwd
+张杰	xtso	20
 
 ## 演员
 周韵	mfuj
@@ -340,6 +356,10 @@ Ninja650	ninj
 秦岚	dwmm	5
 于和伟	gtwf
 王子文	gbyy
+任素汐	wgiq
+范伟	aiwf
+倪妮	wvvn	20
+易烊千玺	jotq
 
 ## 歌曲
 寄居蟹	pnqe
@@ -353,6 +373,7 @@ Ninja650	ninj
 千千阙歌	ttus
 依然范特西	wqas	20
 范特西	atsg	20
+祝融	pygk
 
 ## 通用短语
 一两个月	ggwe
@@ -392,7 +413,7 @@ U盘	utel	20
 逢集	tdwy
 煎包	ueqn
 守岁	pfmq
-烤串	ofkk
+烤串	ofkk	30
 笑死	ttgq
 医保卡	awhh
 社保卡	pwhh
@@ -473,7 +494,7 @@ U盘	utel	20
 双节棍	casj
 <kbd></kbd>	kbd
 狗拎刀	qrvn
-L/100km	imdi
+L/百公里	imdi
 拉胯	rued	100
 L/100km	dwjf
 莱芜	agaf
@@ -536,7 +557,7 @@ L/100km	dwjf
 鸡毛掸子	ctrb
 Thunder	thun
 采样率	esyx
-飚车	mqlg	100
+飚车	mqlg	10
 浓浓	ipip
 图床	ltys	100
 奔狼	dfqt
@@ -766,7 +787,6 @@ PhotoShop	ps
 千牛	tfrh
 回购	lkmq	20
 炸毛	ottf	20
-IP	ip	9
 内网	mwmq	20
 自由落体	tmaw
 钻头	qhud	20
@@ -1298,7 +1318,7 @@ Adobe	adob	20
 划动	ajfc	20
 续租	xfte
 蹊跷	khkh	25
-永无	ynfq	25
+永无	ynfq	5
 伤情	wtng	20
 金刚狼	qmqt	20
 迭代	rwwa	20
@@ -1320,6 +1340,318 @@ CCTV	cctv
 指套	rxdd
 甘蓝菜	aaae
 刺鼻	gmth	20
+汗液	ifiy	45
+出息	bmth	15
+抱死	rqgq	20
+MiyooA30	miyo
+缓动	xefc	15
+幸福感	fpdg
+大美女	duvv
+死要面子活爱罪	gsdl
+残影	gqjy
+期朌	adew
+侧脸	wmew
+偏食	wywy	55
+遮光罩	yilh
+奇了怪了	dbnb
+站酷	uhsg
+虫洞	jhim
+久病成医	quda	30
+度蜜月	ypee
+任一	wtgg	20
+转继	lfxo
+察颜观色	pucq
+不明觉厉	gjid
+占有欲	hdww
+事已至此	gngh
+糟心	ogny
+许愿池	ydib
+包租婆	qtih	15
+奇痒无比	dufx
+波特率	ityx
+磨砂	ysdi	20
+彩蛋	esnh	20
+AI	ai
+家暴	peja
+学到	ipgc	20
+瞧瞧	hwhw	20
+噢哟	ktkx
+哦哟	ktkx
+奖池	uqib
+灵动岛	vfqy	20
+遥墙	erff	20
+遥墙机场	efsf	20
+匝道	amut	20
+爸妈	wqvc	20
+武大郎	gdyv	20
+人贬子	wmbb
+先天性	tgnt
+一眼万年	ghdr
+社恐	pyam
+工位	aawu
+佛头	wxud
+白噪音	rkuj
+有图有真相	dlds
+狗头	qtud	25
+换程	rqtk
+口嗨	kkki	20
+抠搜	rarv	20
+高光	ymiq	20
+沙棘	iigm	20
+大一	ddgg	30
+大二	ddfg	15
+大三	dddg	30
+咪咪	koko	20
+优衣酷	wysg	20
+学前班	iugy	20
+好长	vbta	20
+龙葵	dxaw
+一串	ggkk	20
+弟弟妹妹	uuvv	20
+仙人掌	wwip	30
+离家出走	ypbf
+远房	fqyn	15
+溏沽	iyid	5
+足金	khqq	20
+下播	ghrt	5
+备机	tlsm
+涂装	iwuf
+谢尔比	yqxx
+金价	qqww
+悄悄话	nnyt
+领养	wyud	25
+福利院	ptbp	25
+指手画脚	rrge	25
+一文不值	gygw	25
+房贷	ynwa	25
+里屋	jfng
+解闷	qeun	5
+抠鼻	rath	20
+呲牙	khah	50
+优衣库	wyyl	5
+下垂	ghtg	5
+改签	nttw	20
+房费	ynxj	20
+行李箱	tsts	20
+鼻毛	thtf	5
+脖套	efdd	20
+酱香饼	utqn
+桔黄	sfam	20
+领口	wykk	5
+哪张	kvxt
+爱爱	epep
+壁咚	nkkt
+有意思	duln
+叹号	kckg	20
+顺滑	kdim	20
+锈迹斑斑	qygg	20
+锈迹	qtyo	15
+组态	xedy
+坐地起价	wffw	20
+发饰	vqn
+自重力	ttlt	20
+贱兮兮	mwwg	15
+声光报警	fira	15
+导电胶	njeu
+端茶送水	uaui
+氧传感器	rwdk
+打金店	rqyh
+打金	rsqq
+金玉满堂	qgii	20
+银价	qvww	20
+噪点	kkhk	20
+铂金	qrqq	20
+钯金	qcqq	20
+宾利	prtj	20
+睡觉觉	hiip	20
+撒狗粮	rqoy	20
+耐造	dmtf	20
+乖乖	tftf	45
+拼多多	rqqq
+等不及	tgey	20
+临额	jtpt
+老不死	fggq	15
+捂嘴	rgkh	15
+山航	mmte
+刮刮乐	ttqi	20
+停车费	wlxj
+征信	tgwy
+与此同时	ghmj	15
+限免	bvqk
+扭扭捏捏	rrrr	12
+辣条	ugts
+霸凌	fauf
+校园霸凌	slfu
+空滤	pwih
+豆包	gkqn	20
+头孢	udbq
+散点图	ahlt
+散点	aehk	20
+发信息	nwth
+大观园	dclf	20
+几家	mtpe	20
+圣诞老人	cyfw	20
+蹲起	khfh	25
+攒钱	rtqg
+播放列表	rygg	30
+套壳	ddfp	20
+代付	wawf
+亲情卡	unhh	20
+荆轲刺秦	algd
+喜马拉雅	fcra
+碳钢	dmqm
+水果刀	ijvn	30
+腰椎间盘	esut
+腰间盘	eute
+背刺	uxgm
+谈婚论嫁	yvyv	20
+布洛芬	diaw	20
+封禁	ffss
+习近平	nrgu
+原厂	drdg	20
+牛血	rhtl
+人畜无害	wyfp	20
+亲力亲为	uluy	20
+人潮人海	wiwi
+金手指	qrrx
+窜天猴	pgqt
+例句	wgqk	15
+地库	fbyl
+追焦	wnwy	20
+横版	sath	15
+声浪	fniy
+颗粒度	joya
+白加黑	rllf
+除胶剂	beyj
+此话怎讲	hyty
+起泡酒	fiis
+医美	atug	20
+渐入佳境	itwf	15
+桥洞	stim	20
+辅食	lgwy	20
+阿尔茨海默病	bqau
+格洛克	sidq
+飞拉达	nrdp
+街角	tfqe	20
+从业者	woft	20
+甘青大环线	agdx
+甘青	afge
+气瓶	rnua	20
+全冰	wgui	20
+全冰凉	wuuy	20
+第一视角	tgpq
+防晒衣	bjye
+初速	pugk
+水电气暖	ijrj
+气暖	rnje
+氰化物	rwtr
+富含	pgwy
+维C	xwc
+核辐射	sltm
+击碎	fmdy	20
+USB-C	usbc
+涵道	ibut
+花痴	awut	40
+手把件	rrwr	40
+国密	lgpn	40
+盲猜	ynqt	20
+民宿	napw
+忽隐忽现	qbqg	20
+美甲	uglh	20
+必胜客	nept	20
+肉夹馍	mgqn	20
+驴肉	cymw
+击杀	fmqs
+巴雷特	cftr
+单兵	ujrg	20
+慌慌忙忙	nnnn	30
+副卡	gkhh	20
+主副卡	yghh	20
+代驾	walk	20
+鬼门关	ruud
+排气管	rrtp
+启停	ynwy	35
+微焦	tmwy
+生料带	togk
+沪上阿姨	ihbv
+蛋黄派	nair	20
+拓扑图	rrlt
+哗哗	kwkw
+紫外	hxqh
+肉鸽	mwwg
+蒸面	abdm
+柚子	smbb	20
+天差地别	gufk
+违和感	ftdg	25
+结结实实	xxpp
+服务端	etum
+挖耳勺	rbqy
+复合弓	twxn
+锅包肉	qqmw
+回锅肉	lqmw
+RFID	rfid
+磨皮	yshc
+糖葫芦	oaay	20
+吨吨桶	kksc	20
+灵动	vofc
+干脆面	fedm
+老胖	fteu
+油壶	imfp
+代金券	wqud
+拖影	rtjy
+二氧化硫	frwd
+谷雨	wwfg
+兔笼	qktd	20
+泛光	itiq	20
+一分一秒	gwgt	20
+坎德拉	ftru
+氚管	rntp
+微弧	tmxr
+海底捞	iyra
+珍珠棉	ggsr	20
+主人	ygww	15
+愁云密布	tfpd	20
+枝桠	sfsg	5
+微动	tmfc
+断触	onqe
+隔挡	bgri	5
+音轨	ujlv	20
+一惊一乍	gngt	20
+打铁花	rqaw
+大概率	dsyx
+打野	rsjf	20
+密保	pnwk
+遥控车	erlg
+刮擦	tdrp	20
+卡死	hhgq	20
+领用	wyet
+可视化	spwx	30
+戒断	aaon	30
+跳帧	khmh	25
+千问	tfuk	25
+弹珠	xugr
+牛头	rhud
+母鸡汤	xcin
+半衰期	uyad
+狩猎	qtqt
+推重比	rtxx
+领夹麦	wggt
+领夹	wygu
+自适应	ttyi
+弹起	xufh
+口腔溃疡	keiu
+曲源	maid	18
+悬窗	egpw
+HiFi	hif	20
+HiFi	hifi	20
+舟车劳累	tlal
+舟车	telg
+挂耳	rfbg
+乐库	qiyl
+比特率	xtyx
+版本号	tskg
+平齐	guyj
+减速带	uggk	20
 
 ## 软件名
 懂车帝	nlup
@@ -1332,9 +1664,10 @@ CCTV	cctv
 标题日记	sjjy
 JetBrains	jetb	10
 PyCharm	pych	10
-Github	gith	100
 滴嗒	iuka
 WebStorm	webs
+青藤之恋	gapy	20
+青藤	geae
 
 ## 品牌
 美特斯邦威	utad
@@ -1393,6 +1726,28 @@ Ulanzi	ulan
 赛腾	pfeu	20
 云腾	fceu
 斯莫格	aast
+玛赤佩	gfwm	20
+斯缇诗	axyf	20
+喵喵机	kksm
+无印良品	fqyk	10
+炫迈	oydn
+牧田	trll
+纽曼	xnjl
+清华紫光	iwhi	5
+老蛙	ftjf	20
+鹿岛	ynqy
+锐孚	queb
+雷明兔	fjqk	20
+奈特科尔	dttq
+山岛	mmqy
+贝斯博尔	mafq
+百诚	djyd
+南旗	fmyt
+杰士邦	sfdt
+布鲁克斯	dqda
+固特异	ltna
+乐图	qilt	18
+森海塞尔	sipq
 
 ## 区域
 莒县	akeg
@@ -1417,6 +1772,15 @@ Ulanzi	ulan
 环联夜市	gbyy
 果庄乡	jyxt
 下屯村	ggsf
+大坪坝	dffm	20
+沙坪坝	iffm	20
+鸿恩寺	ilff	20
+渝北	iwux	20
+唐冶	yvuc
+洪崖洞	imim	20
+福来士	pgfg	20
+博山	fgmm	20
+灵岩寺	vmff
 
 ## 医学
 直肠癌	feuk
@@ -1438,6 +1802,10 @@ Ulanzi	ulan
 幽门螺旋杆菌	xuja
 静脉曲张	gemx
 曲张	maxt
+渐冻症	iuug	20
+优甲乐	wlqi
+左甲状腺素钠片	dlut	200
+糠酸莫米松鼻喷雾剂	osay
 
 ## emoji动物
 🐶	qtqk		狗
@@ -1726,6 +2094,13 @@ N号房	nkyn
 沙罗曼蛇	iljj	20
 MiyooMini+	miyo
 Miyoo	miyo
+绝地求生	xfft	5
+红警	xaaq	20
+幻景	xnjy	5
+Trimui Smart Pro	trim
+Trimui Bricks	trim
+TrimUI	trim	20
+刺激战场	gihf
 
 ## 三四叠字
 众	cccc
@@ -1794,6 +2169,8 @@ uniapp	unia
 AM	am
 Kotlin	kot
 ElementUI	elem
+码流	dciy
+天地图	gflt
 
 ## 物联网
 通断	ceon
@@ -1837,6 +2214,8 @@ ElementUI	elem
 红砖	xadf
 青砖	gedf
 地漆	fbis
+黄河文化博物馆群	aiyv
+超然楼	fqso	20
 
 ## 网红
 李佳琦	swgd	20
@@ -1859,6 +2238,7 @@ ElementUI	elem
 刘亦菲	yyad
 王朔	ggub
 马思纯	clxg
+哈里斯	kjad
 
 ## 摄影
 定焦	pgwy
@@ -1901,3 +2281,4 @@ ElementUI	elem
 犟骨头	xmud	20
 苦菊	adaq	20
 沙拉酱	iruq	20
+风味茄子	mkab
